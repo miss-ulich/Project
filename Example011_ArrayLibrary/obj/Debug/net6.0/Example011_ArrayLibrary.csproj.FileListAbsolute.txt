@@ -1,0 +1,15 @@
+/Users/olesasavina/Project2/Project/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary
+/Users/olesasavina/Project2/Project/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.deps.json
+/Users/olesasavina/Project2/Project/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.runtimeconfig.json
+/Users/olesasavina/Project2/Project/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.dll
+/Users/olesasavina/Project2/Project/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.pdb
+/Users/olesasavina/Project2/Project/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.csproj.AssemblyReference.cache
+/Users/olesasavina/Project2/Project/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olesasavina/Project2/Project/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.AssemblyInfoInputs.cache
+/Users/olesasavina/Project2/Project/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.AssemblyInfo.cs
+/Users/olesasavina/Project2/Project/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.csproj.CoreCompileInputs.cache
+/Users/olesasavina/Project2/Project/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.dll
+/Users/olesasavina/Project2/Project/Example011_ArrayLibrary/obj/Debug/net6.0/refint/Example011_ArrayLibrary.dll
+/Users/olesasavina/Project2/Project/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.pdb
+/Users/olesasavina/Project2/Project/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.genruntimeconfig.cache
+/Users/olesasavina/Project2/Project/Example011_ArrayLibrary/obj/Debug/net6.0/ref/Example011_ArrayLibrary.dll
