@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Example001_HelloConsole
-build_property.ProjectDir = /Users/olesasavina/Project2/Project/Example001_HelloConsole/
+build_property.RootNamespace = Example008_IntroMethod
+build_property.ProjectDir = /Users/olesasavina/Project2/Project/Example008_IntroMethod/
